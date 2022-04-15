@@ -1,4 +1,4 @@
-import 'package:customwidgets/pages/one_page.dart';
+import 'package:customwidgets/views/one_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
